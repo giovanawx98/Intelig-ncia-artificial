@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Como você se sente em relação aos vestibulares?",
         alternativas: [
             {
-                texto: "Estou ansioso (a) / Com medo",
-                afirmacao: "Tem medo de prestar tais provas."
-            },
-            {
                 texto: "Estou seguro (a) e tranquilo (a)",
                 afirmacao: "Está confiante para realizar as provas."
+            },
+            {
+                texto: "Estou ansioso (a) / Com medo",
+                afirmacao: "Tem medo de prestar tais provas."
             }
         ]
     },
